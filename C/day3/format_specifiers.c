@@ -20,7 +20,7 @@ int main()
     printf("\n Result is: %f",result);
 
     printf("\n Size of int: %lu",sizeof(int));
-    printf("\n Size of char: %lu",sizeof(177.77f));
+    printf("\n Size of Double: %lu",sizeof(177.77f));
     printf("\n Size of int: %lu",sizeof(NumberThree));
 
     return 0;
