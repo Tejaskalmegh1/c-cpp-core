@@ -9,6 +9,9 @@ int main()
     printf("\n Size of char x is: %lu",sizeof(x));
     printf("\n Short y value is: %hd",y);
     printf("\n Size of short y is: %lu",sizeof(y));
+
+
     
+
     return 0;
 }
