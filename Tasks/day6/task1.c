@@ -12,8 +12,8 @@ int main()
     scanf("%f",&science);
 
     total = english + maths + science ;
+    printf("\n Total marks Obtain: %.2f",total);
     percentage = ((total)/(20*3)) * 100;
-
     printf("\n Percentage: %.2f",percentage);
 
     if ((percentage > 39) && (percentage < 55)) {
