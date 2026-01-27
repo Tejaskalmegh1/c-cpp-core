@@ -28,7 +28,7 @@ int main()
     }
     else
     {
-        printf("\n %d is not divisible by 5 or 7 ");
+        printf("\n %d is not divisible by 5 or 7 ",number);
     }
     
     return 0;
